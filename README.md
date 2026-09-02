@@ -6,8 +6,5 @@ Sou estudante de Sistemas de Informação e estou construindo habilidades práti
 
 ## Certificates
 
-- Google Cybersecurity Professional Certificate (Coursera/Google) — In progress (4/9)
-  - Course 1: Foundations of Cybersecurity — Completed (Feb 2026).
-  - Course 2: Play It Safe: Manage Security Risks — Completed (Apr 2026).
-  - Course 3: Connect and Protect: Networks and Network Security — Completed (May 2026).
+- Google Cybersecurity Professional Certificate (Coursera/Google) — In progress (6/9)
 
