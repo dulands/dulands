@@ -1,10 +1,13 @@
-## Professional Statement (EN)
-I’m an Information Systems student building practical cybersecurity skills through continuous study and hands-on projects, with the goal of helping reduce risk and protect data. I value integrity, accountability, and clear communication, and I like to understand root causes and impacts to learn from real-world problems. I’m seeking an entry-level opportunity to support risk reduction and strengthen an organization’s security posture through strong fundamentals and consistent processes.
+# Eduardo Land
 
-## Declaração Profissional (PT-BR)
-Sou estudante de Sistemas de Informação e estou construindo habilidades práticas em cibersegurança com estudo contínuo e projetos com objetivo de contribuir para reduzir riscos e proteger dados. Valorizo integridade, responsabilidade e comunicação clara, e gosto de entender causas e impactos para aprender com problemas reais. Busco uma vaga de entrada para apoiar a redução de riscos e fortalecer a postura de segurança da organização com bons fundamentos e processos consistentes.
+Information Systems student nearing graduation, currently focused on cybersecurity and building practical experience through security and development projects.
 
-## Certificates
+## Cybersecurity
 
-- Google Cybersecurity Professional Certificate (Coursera/Google) — In progress (6/9)
+My [cybersecurity portfolio](https://github.com/dulands/cybersecurity-portfolio) documents hands-on work completed as part of my cybersecurity studies, including a security audit, a DoS incident analysis using the NIST CSF, Linux permission management, SQL filtering, and a vulnerability assessment.
 
+- **Google Cybersecurity Professional Certificate** — In progress (6/9)
+
+## Development
+
+I also maintain development projects such as [Sênior Plus](https://github.com/dulands/senior-plus-site), a responsive static website built with Astro and TypeScript.
